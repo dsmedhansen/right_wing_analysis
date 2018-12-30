@@ -1,2 +1,2 @@
-# right_wing_analysis
+# Analysis of right-wing YouTube channels
 
